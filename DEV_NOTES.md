@@ -9,3 +9,6 @@ Personal development log — notes, findings, and ongoing work.
 - Checked for memory leaks in long-running path
 - Verified compatibility with latest runtime version
 - Drafted initial implementation plan for v2
+
+## 2026-04-29
+- Added .editorconfig for consistent formatting
