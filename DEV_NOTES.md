@@ -12,3 +12,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-04-29
 - Added .editorconfig for consistent formatting
+
+## 2026-05-06
+- Verified API endpoint response schema
