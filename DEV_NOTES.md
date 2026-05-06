@@ -20,3 +20,7 @@ Personal development log — notes, findings, and ongoing work.
 - Documented config options
 - Checked for memory leaks in long-running path
 - Investigated performance bottleneck, noted findings
+
+## 2026-05-06
+- Updated .gitignore to exclude build artifacts
+- Refactored module structure for clarity
