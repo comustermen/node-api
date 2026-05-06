@@ -15,3 +15,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-06
 - Verified API endpoint response schema
+
+## 2026-05-06
+- Documented config options
+- Checked for memory leaks in long-running path
+- Investigated performance bottleneck, noted findings
