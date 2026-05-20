@@ -28,3 +28,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-20
 - Checked for memory leaks in long-running path
 - Resolved TODO items from previous session
+
+## 2026-05-20
+- Added basic usage examples to README
+- Cleaned up old debug logs
+- Investigated performance bottleneck, noted findings
