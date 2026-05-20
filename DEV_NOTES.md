@@ -24,3 +24,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-06
 - Updated .gitignore to exclude build artifacts
 - Refactored module structure for clarity
+
+## 2026-05-20
+- Checked for memory leaks in long-running path
+- Resolved TODO items from previous session
